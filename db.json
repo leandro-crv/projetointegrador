@@ -1,0 +1,84 @@
+{
+  "atrativo": [
+    {
+      "id": 1,
+      "uf": "RS",
+      "cidade": "Gramado",
+      "nome": "Lago negro",
+      "img": "https://pgportals.s3.amazonaws.com/2871d8b1be45ce651d7ee4b51248793a/values/value_files/000/004/705/full/lago-negro-gramado-05-585x38420180321-18316-c64vdg20190809-552-2r5zkn.jpg?1565378300",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium lectus quam id leo in vitae turpis. Sed vulputate mi sit amet mauris.",
+      "categoria": "contemplação",
+      "favorito": false
+    },
+    {
+      "uf": "RS",
+      "cidade": "Maquiné",
+      "nome": "Cascata do Garapiá",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/0d/37/2c/78/cascata-garapia.jpg",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium lectus quam id leo in vitae turpis. Sed vulputate mi sit amet mauris.",
+      "id": 4,
+      "categoria": "trilha",
+      "favorito": false
+    },
+    {
+      "uf": "RS",
+      "cidade": "Cambará do Sul",
+      "nome": "Canyon Fortaleza",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/0e/49/d4/b0/photo1jpg.jpg",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium lectus quam id leo in vitae turpis. Sed vulputate mi sit amet mauris.",
+      "id": 5,
+      "categoria": "contemplação",
+      "favorito": true
+    },
+    {
+      "uf": "RS",
+      "cidade": "Derrubadas",
+      "nome": "Salto do Yucumã",
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/ba/f6/04/salto-do-yucuma.jpg?w=1200&h=-1&s=1",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium lectus quam id leo in vitae turpis. Sed vulputate mi sit amet mauris.",
+      "id": 6,
+      "categoria": "contemplação",
+      "favorito": false
+    },
+    {
+      "uf": "RS",
+      "cidade": "Torres",
+      "nome": "Praia da guarita",
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/5f/eb/76/vista-da-praia-da-cal.jpg?w=300&h=300&s=1",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium lectus quam id leo in vitae turpis. Sed vulputate mi sit amet mauris.",
+      "id": 7,
+      "categoria": "praia",
+      "favorito": false
+    },
+    {
+      "uf": "SC",
+      "cidade": "Florianópolis",
+      "nome": "Ilha do Campeche",
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/6c/b1/95/caption.jpg?w=1200&h=-1&s=1",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium lectus quam id leo in vitae turpis. Sed vulputate mi sit amet mauris.",
+      "id": 8,
+      "categoria": "praia",
+      "favorito": false
+    },
+    {
+      "uf": "SC",
+      "cidade": "Praia Grande",
+      "nome": "Canyon Malacara",
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d1/aa/b0/caption.jpg?w=1200&h=-1&s=1",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium lectus quam id leo in vitae turpis. Sed vulputate mi sit amet mauris.",
+      "id": 9,
+      "categoria": "trilha",
+      "favorito": false
+    },
+    {
+      "nome": "Mirante Serra do Rio do Rastro",
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/67/df/0f/20181115-094631-largejpg.jpg?w=1000&h=-1&s=1",
+      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pretium lectus quam id leo in vitae turpis. Sed vulputate mi sit amet mauris.",
+      "uf": "SC",
+      "cidade": "Bom Jardim da Serra",
+      "id": 10,
+      "categoria": "contemplação",
+      "favorito": false
+    }
+  ]
+}
